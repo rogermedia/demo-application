@@ -81,8 +81,8 @@ const Home: NextPage<Props> = ({ initialItems }) => {
   return (
     <div>
       <Head>
-        <title>TODO application | Kinsta</title>
-        <meta name="description" content="Dead simple TODO application." />
+        <title>Roger&apos;s TODO application | Kinsta</title>
+        <meta name="description" content="Dead simple TODO application for getting Roger to do things." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
